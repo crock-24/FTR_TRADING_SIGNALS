@@ -11,7 +11,7 @@ This repository contains a structured approach to:
 1. **Clean and structure MISO Day-Ahead LMP data**
 2. **Score nodes based on congestion characteristics**
 3. **Group nodes into behavioral clusters**
-4. **Select and rank spreads with high potential for actual FTR alignment**
+4. **Select and rank spreads with high potential for actual FTR node alignment**
 5. **Evaluate historical spread performance**
 
 ---
